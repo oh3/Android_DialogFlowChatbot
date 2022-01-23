@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/activity_calculator_activity.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/activity_calendar_activity.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/activity_city_finder.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/activity_game_activity.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/activity_map_activity.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/activity_menu_activity.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/activity_painter_activity.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/activity_weather_activity.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/adapter_message_one.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/dialog_color.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/dialog_line.xml" value="0.1793478260869565" />
+        <entry key="..\:/android Workspace/JNUaiChatbot/app/src/main/res/layout/spalsh.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
